@@ -1,0 +1,9 @@
+{
+  "name": "cas-mcp-server",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "node-fetch": "^3.3.2"
+  }
+}
